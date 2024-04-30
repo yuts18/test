@@ -1,3 +1,7 @@
 develop
 privet kak dela
+<<<<<<< HEAD
 kroshka maya
+=======
+chto takoe
+>>>>>>> main
